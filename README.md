@@ -27,23 +27,23 @@ Four methods to implementing NCA which is often used for metric learning and dim
     <table>
      <tr>
       <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_2_digits.jpg></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_3_digits.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_4_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_3_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_4_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_5_digits.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_6_digits.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_7_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_5_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_6_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_7_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_8_digits.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_9_digits.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/mnist_with_10_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_8_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_9_digits.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_10_digits.jpg"></td>
      </tr>
      <tr>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/digits_np.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/breast_cancer.jpg"></td>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/pics/iris.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/digits_np.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/breast_cancer.jpg"></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/iris.jpg"></td>
      </tr>
 
     </table>
