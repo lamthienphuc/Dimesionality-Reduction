@@ -26,7 +26,7 @@ Four methods to implementing NCA which is often used for metric learning and dim
   <div>
     <table>
      <tr>
-      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_2_digits.jpg></td>
+      <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_2_digits.jpg"></td>
       <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_3_digits.jpg"></td>
       <td><img src = "https://github.com/lamthienphuc/Dimesionality-Reduction/blob/main/pics/mnist_with_4_digits.jpg"></td>
      </tr>
